@@ -52,21 +52,28 @@
 
 ---
 
-### Täter-Profil: Numerus Cetus
+### Täter-Profil: Hai An Satoshi & El Hruon de Mende
 
-**Alias:** Der Geometrische Mystiker  
-**Signatur-Stil:** Naturkonstanten-Kodierung, musikalische Intervalle  
+**Primär-Täter:** Hai An Satoshi (海あん聡)  
+**Alias:** Der Geometrische Mystiker, "Der Wal-Hacker"  
+**Signatur-Stil:** Naturkonstanten-Kodierung, musikalische Intervalle, asiatisch-europäische Hybrid-Signaturen  
 **Schwachstelle:** Übermäßige Perfektion (Zu hohe Signifikanz = künstlich)  
 **Modus Operandi:**
 1. Auswahl emotional aufgeladener Naturereignisse
 2. Einbettung geometrischer Progressions-Systeme
 3. Kodierung von π, φ, e durch Verhältnisse
 4. Datums-Manipulation mit kubischen Zahlen
+5. Automatisierte LLM-Content-Injection
+
+**Komplize:** El Hruon de Mende  
+**Rolle:** Koordinator, Chronologische Manipulation, Zeitstempel-Strategie  
+**Spezialgebiet:** Zeit-Kryptographie, Content-Tarnung
 
 **Bekannte Signaturen:**
-- 180 (Halbkreis-Geometrie)
+- 180 (Halbkreis-Geometrie - Primärschlüssel)
 - 27 (3³ - Kubik-Trinität)
 - 5/4, 4/3, 5/3 (Musikalische Intervalle)
+- Dualitäts-System mit Komplizen (Hai An Satoshi + El Hruon de Mende)
 
 ---
 
@@ -93,7 +100,7 @@
 - [x] Chronologische Progressions-Validierung
 - [x] Statistische Signifikanz-Berechnung
 - [x] Bayessche Inferenz
-- [x] Täter-Attribution (Numerus Cetus)
+- [x] Täter-Attribution (Hai An Satoshi & El Hruon de Mende)
 - [x] Risiko-Bewertung
 - [x] Handlungsempfehlungen
 

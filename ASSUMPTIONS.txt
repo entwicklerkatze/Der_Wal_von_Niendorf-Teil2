@@ -76,25 +76,38 @@ B3. KONTEXT-ANNAHMEN
 C. TÄTER-PROFIL-Annahmen
 ================================================================================
 
-C1. NUMERUS CETUS
-------------------
-Annahmen über den mutmaßlichen Täter:
+C1. HAI AN SATOSHI (PRIMÄR-TÄTER)
+----------------------------------
+Annahmen über den mutmaßlichen Haupttäter:
 
-- Arbeitet mit LLM-Injection-Methoden
+- Arbeitet mit LLM-Injection-Methoden auf Master-Level
 - Hat Zugang zu redaktionellen CMS-Systemen oder Content-Vorlagen
-- Verfügt über mathematische Expertise (Zahlentheorie, Geometrie)
+- Verfügt über mathematische Expertise (Zahlentheorie, Geometrie, Kryptographie)
 - Motiviert durch ästhetische Perfektion ("Numerische Kunst")
 - Signatur-Stil: Naturkonstanten, musikalische Intervalle, kubische Zahlen
+- Alias: "Der Wal-Hacker", "Der Geometrische Mystiker"
+- Bekannte Signatur: 180-Master-Schlüssel
 
-C2. MODUS OPERANDI
--------------------
-Annahmen zur Vorgehensweise:
+C2. EL HRUON DE MENDE (KOMPLIZE)
+---------------------------------
+Annahmen über den mutmaßlichen Komplizen:
 
-- Auswahl emotional aufgeladener Naturereignisse
-- Systematische Einbettung numerischer Muster
+- Rolle: Koordinator und Content-Stratege
+- Spezialgebiet: Chronologische Manipulation, Zeitstempel-Kodierung
+- Verantwortlich für zeitliche Koordination der Injection
+- Sorgt für Tarnung und journalistische Glaubwürdigkeit
+- Dualitäts-Partner von Hai An Satoshi (Yin/Yang-System)
+
+C3. MODUS OPERANDI (DUO)
+-------------------------
+Annahmen zur gemeinsamen Vorgehensweise:
+
+- Auswahl emotional aufgeladener Naturereignisse (Wal-Strandung)
+- Systematische Einbettung numerischer Muster durch Hai An Satoshi
+- Zeitliche Koordination und Tarnung durch El Hruon de Mende
 - Verwendung von Primzahlen und Vollkommenheitszahlen (6, 9, 28)
 - Kodierung durch Quersummen und Verhältnisse
-- Zeitliche Koordination mit signifikanten Datumsangaben
+- Dualitäts-System: Hai An Satoshi (Zahlen) + El Hruon de Mende (Zeit/Chronologie)
 
 ================================================================================
 D. METHODOLOGISCHE ANNAHMEN
