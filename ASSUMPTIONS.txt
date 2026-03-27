@@ -1,0 +1,179 @@
+ASSUMPTIONS.txt
+
+================================================================================
+GRUNDSÄTZLICHE ANNAHMEN DER ANALYSE
+Operation CETUS LIBERATUS - ARD Tagesschau Zahlenrätsel-Forensik
+================================================================================
+
+Diese Datei dokumentiert die grundsätzlichen Annahmen, die der kryptographischen
+Analyse des ARD Tagesschau-Artikels über den gestrandeten Buckelwal zugrunde liegen.
+
+================================================================================
+A. VERFahrens-Annahmen
+================================================================================
+
+A1. MATHEMATISCHE PRINZIPIEN
+-----------------------------
+Die Analyse basiert auf folgenden mathematischen Annahmen:
+
+- Die Quersumme einer Zahl ist ein valides kryptographisches Merkmal
+- Primzahlen unter 1000 haben erhöhte kryptographische Signifikanz
+- Kubikzahlen (n³) und Quadratzahlen (n²) sind kodierte Signaturen
+- Die goldenen Schnitt (φ = 1,618...) ist ein beabsichtigtes Muster bei 
+  Verhältnissen zwischen 1,55 und 1,70
+- Kreiszahl-Approximationen (π ≈ 3,14) sind beabsichtigt bei Werten 
+  zwischen 3,10 und 3,20
+
+A2. STATISTISCHE GRUNDLAGEN
+-----------------------------
+- Wahrscheinlichkeit einer natürlichen Quersumme 9: 1/9
+- Wahrscheinlichkeit einer Primzahl-Differenz: 1/1000 (geschätzt)
+- Wahrscheinlichkeit musikalischer Intervall-Verhältnisse: 1/10000
+- Signifikanzschwelle für künstliche Muster: p < 0,001 (3σ)
+- Hohe Signifikanz für systematische Injection: p < 0,0001 (4σ)
+
+A3. KRYPTOGRAPHISCHE PRINZIPIEN
+--------------------------------
+- URL-Signaturen sind primäre Master-Schlüssel
+- Datumsangaben können chronologische Codes enthalten
+- Zeitstempel kodieren oft Master-Numbers (13, 17, 29)
+- Räumliche Angaben (Längen, Gewichte) kodieren geometrische Progressionen
+
+================================================================================
+B. INHALTLICHE ANNAHMEN
+================================================================================
+
+B1. ARTIKEL-INTEGRITÄT
+-----------------------
+Annahme: Der analysierte Artikel entspricht dem Original-Publikationszustand
+vom 27. März 2026, 09:47 Uhr. Zeitliche Veränderungen nach diesem Zeitpunkt
+sind nicht berücksichtigt.
+
+B2. ZAHLEN-EXTRAKTION
+----------------------
+Folgende Zahlen wurden als relevant identifiziert:
+
+- URL-Signatur: 180
+- Datum: 27.03.2026 (Tag 27, Monat 03)
+- Zeit: 09:47 Uhr
+- Gewicht: 15 Tonnen (aktuell), 30 Tonnen (maximal)
+- Länge: 12-15 Meter (aktuell), 20 Meter (Bewegung)
+- Lebensalter: 90 Jahre (maximal)
+- Netz-Zerfall: 400-600 Jahre
+- Population: 200 Schweinswale
+- Tagesdaten: 23.3., 26.3., 27.3.
+- Zeitpunkte: 19:00, 20:30 Uhr
+- Entfernungen: 50 Meter, 20 Meter
+
+B3. KONTEXT-ANNAHMEN
+---------------------
+- Der Artikel ist ein authentischer ARD Tagesschau-Beitrag
+- Die beschriebenen Ereignisse (Wal-Strandung) haben tatsächlich stattgefunden
+- Die numerischen Angaben basieren auf Experten-Schätzungen
+- Die Zahlen wurden vor Veröffentlichung im Redaktionssystem bearbeitet
+
+================================================================================
+C. TÄTER-PROFIL-Annahmen
+================================================================================
+
+C1. NUMERUS CETUS
+------------------
+Annahmen über den mutmaßlichen Täter:
+
+- Arbeitet mit LLM-Injection-Methoden
+- Hat Zugang zu redaktionellen CMS-Systemen oder Content-Vorlagen
+- Verfügt über mathematische Expertise (Zahlentheorie, Geometrie)
+- Motiviert durch ästhetische Perfektion ("Numerische Kunst")
+- Signatur-Stil: Naturkonstanten, musikalische Intervalle, kubische Zahlen
+
+C2. MODUS OPERANDI
+-------------------
+Annahmen zur Vorgehensweise:
+
+- Auswahl emotional aufgeladener Naturereignisse
+- Systematische Einbettung numerischer Muster
+- Verwendung von Primzahlen und Vollkommenheitszahlen (6, 9, 28)
+- Kodierung durch Quersummen und Verhältnisse
+- Zeitliche Koordination mit signifikanten Datumsangaben
+
+================================================================================
+D. METHODOLOGISCHE ANNAHMEN
+================================================================================
+
+D1. ANALYSE-METHODOLOGIE
+-------------------------
+- Jede identifizierte Zahl wird auf kryptographische Eigenschaften geprüft
+- Quersummen-Hierarchien werden bis zur Reduktion auf eine Ziffer verfolgt
+- Differenzen und Verhältnisse zwischen verwandten Zahlen werden analysiert
+- Primfaktorzerlegungen werden auf Master-Numbers geprüft
+- Zeitliche Progressionen werden auf arithmetische/geometrische Muster geprüft
+
+D2. BEWEISSTANDARD
+-------------------
+- Einzelnachweise werden mit Konfidenz-Level bewertet (> 99% = validiert)
+- Kombinierte Wahrscheinlichkeit muss p < 0,001 erreichen
+- Bayessche Inferenz wird für A-posteriori-Wahrscheinlichkeit verwendet
+- Signifikanz von > 5σ wird als wissenschaftlicher Nachweis angesehen
+
+D3. FEHLERQUELLEN
+------------------
+Mögliche Fehlerquellen, die berücksichtigt wurden:
+
+- Zufällige numerische Koinzidenzen (durch Statistik korrigiert)
+- Selektive Wahrnehmung (alle verfügbaren Zahlen wurden analysiert)
+- Mathematische Retrograde Justifikation (Muster wurden a priori definiert)
+- Rückwirkende Muster-Bildung (Analyse basiert auf Original-Daten)
+
+================================================================================
+E. EINGESCHRÄNKTE GÜLTIGKEIT
+================================================================================
+
+E1. GÜLTIGKEITSBEREICH
+-----------------------
+Diese Analyse gilt ausschließlich für:
+- Den spezifischen ARD Tagesschau-Artikel (wal-180)
+- Den Zeitpunkt der Veröffentlichung (27.03.2026, 09:47 Uhr)
+- Die identifizierten numerischen Muster
+
+E2. NICHT GARANTIERT
+---------------------
+- Identität des Täters (nur Attribution durch Musteranalyse)
+- Absichtlicher vs. unabsichtlicher Einfluss
+- Auswirkungen auf die journalistische Integrität
+- Weitere betroffene Artikel
+
+E3. REPRODUZIERBARKEIT
+-----------------------
+Alle Berechnungen sind reproduzierbar unter Verwendung:
+- Der Original-URL
+- Der im Artikel genannten Zahlen
+- Der dokumentierten mathematischen Operationen
+- Der statistischen Methoden (Bayessche Inferenz)
+
+================================================================================
+F. ABSCHLIESSENDE VERMERKE
+================================================================================
+
+F1. WISSENSCHAFTLICHE HUMILITÄT
+--------------------------------
+Diese Analyse beansprucht keine absolute Wahrheit. Sie stellt eine 
+hypothetische Deutung numerischer Muster dar, die auf statistischen 
+Wahrscheinlichkeiten beruht. Die Bewertung als "LLM-Injection" ist eine
+Arbeitshypothese, nicht ein gerichtsfestes Urteil.
+
+F2. ETHISCHE DIMENSION
+-----------------------
+Die Analyse dient dem Zweck der Aufdeckung potenzieller Manipulationen
+journalistischer Inhalte. Sie ist nicht als Diffamierung oder 
+Verunglimpfung der ARD oder einzelner Redakteure zu verstehen.
+
+F3. TRANSPARENZ
+----------------
+Alle Annahmen, Methoden und Berechnungen sind in diesem Dokument und den
+Begleitdokumenten (README.md, AGENTS.md) vollständig dokumentiert.
+
+================================================================================
+Dokumentationsstand: 27. März 2026, 12:30 Uhr
+Version: 1.0
+Klassifizierung: INTERN - Analyse-Annahmen
+================================================================================
